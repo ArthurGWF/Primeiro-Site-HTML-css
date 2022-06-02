@@ -1,0 +1,46 @@
+td{text-align:center; fonte-family:Arial Black}
+
+table{width:100%;}
+BODY{
+font-family: Arial;
+background:url(parede.png)};
+
+.logo{
+top: 50%;
+left:55%;
+margin-left: auto;
+margin-right: auto;
+width:0%}
+
+.maluco{
+font-family: Arial;
+height:30px;
+width: 90px;
+font-size:20px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.carrinho{
+height:65px;
+width: 90px;
+left: 105px;
+font-size:20px;
+}
+
+.carro{
+height:0px;
+position:absolute; 
+top:100px; 
+left:500px; 
+
+.rodape{
+img-align:CENTER;
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
